@@ -51,7 +51,7 @@ export default function Web() {
 						zIndex: -1,
 						position: "relative",
 						width: "100%",
-						// height: "40%",
+						height: "100%",
 					}}
 				>
 					<Image
@@ -94,7 +94,7 @@ export default function Web() {
 				</div>
 			</section>
 			<footer className="bg-black flex lg:justify-evenly absolute md:relative lg:relative bottom-0 w-full">
-				<div>
+				<div className="mt-0 p-0">
 					<div className="flex flex-row items-center lg:justify-evenly lg:gap-80 mt-6">
 						<div>
 							<a href="" className="text-xs px-4 md:py-8 lg:px-8 text-white lg:py-8 md:text-sm lg:text-sm">
