@@ -11,8 +11,8 @@
 		"eslint-config-custom": "*",
 		"prettier": "^2.5.1",
 		"turbo": "latest",
-		"react": "^17.0.2",
-		"react-native": "^0.65.1"
+		"react": "^18.2.0",
+		"react-native": "^0.71.7"
 	},
 	"name": "my-turborepo",
 	"packageManager": "yarn@1.22.19",
