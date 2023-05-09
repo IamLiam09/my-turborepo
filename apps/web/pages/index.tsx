@@ -127,7 +127,7 @@ export default function Web() {
 							</button>
 							<button className=" p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
 								<svg
-									class="w-5 h-5 fill-current"
+									className="w-5 h-5 fill-current"
 									role="img"
 									xmlns="http://www.w3.org/2000/svg"
 									viewBox="0 0 24 24"

@@ -1,3 +1,3 @@
-import "./styles/index.css"
+import "./styles/index.css";
 export * from "./Button";
 export * from "./Logo";
